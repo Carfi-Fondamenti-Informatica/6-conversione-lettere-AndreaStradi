@@ -1,7 +1,3 @@
-//
-// Created by andre on 30/11/2021.
-//
-
 #include "lib.h"
 
 char funzione (char let){
